@@ -19,7 +19,7 @@ namespace ComicBookGallery.Controllers
                 "Script: Dan Slott",
                 "Pencils: Humberto Ramos",
                 "Inks: Victor Olazaba",
-                "Volors: Edgar delgado",
+                "Colors: Edgar delgado",
                 "Letters: Chris Eliopoulos"
             };
 
