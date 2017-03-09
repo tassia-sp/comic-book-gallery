@@ -27,3 +27,4 @@ namespace ComicBookGallery.Controllers
         }
     }
 }
+//ViewBag is bad becuase it is a dynamic type so we cannot check for errors.
